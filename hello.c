@@ -6,6 +6,7 @@ int mutiply(int a ,int b){
 	return a*b;
 >>>>>>> main
 }
+12312313213213
 int sum(int a,int b){
 	return (a+b);
 }
